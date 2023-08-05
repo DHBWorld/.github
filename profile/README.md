@@ -1,4 +1,4 @@
-![DHBWorld](https://github.com/microsoft/.github/profile/blob/main/images/banner.png) 
+![DHBWorld](https://raw.githubusercontent.com/DHBWorld/.github/main/profile/banner.png) 
 
 # Our Work 🚀
 [![DHBWorld](https://github-stats.blitzdose.de/pin/?username=DHBWorld&&repo=DHBWorld&theme=dark#gh-dark-mode-only)](https://github.com/DHBWorld/DHBWorld#gh-dark-mode-only)
